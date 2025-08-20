@@ -27,4 +27,6 @@ Optional User Stories
  c. If the text field is empty, update label with default text string
 
  App Walk-though
-![Uploading helloworldJerry.gif…]()
+ ![HansDjuHelloApp](https://github.com/user-attachments/assets/7ea835bc-29b5-4c7f-91fd-ba5811b35572)
+
+
