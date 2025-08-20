@@ -2,11 +2,6 @@ HelloWorldApp
 App Description
 An Android app built with Kotlin that lets users customize a greeting message, change text and background colors, and reset the UI with a tap.
 
-App Walk-though
-![Uploading helloworldJerry.gif…]()
-
-
-
 
 Required User Stories
  1. User sees custom text in a label - Hello from Jerry!
@@ -21,6 +16,9 @@ Optional User Stories
  2. User can tap a button to change the text string of the label.
 
  3. User can tap on the background view to reset all views to default settings.
+
+App Walk-though
+![Uploading helloworldJerry.gif…]()
 
  4. User can update the label text with custom text entered into the text field.
 
