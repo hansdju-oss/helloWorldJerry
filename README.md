@@ -17,8 +17,6 @@ Optional User Stories
 
  3. User can tap on the background view to reset all views to default settings.
 
-App Walk-though
-![Uploading helloworldJerry.gif…]()
 
  4. User can update the label text with custom text entered into the text field.
 
@@ -27,3 +25,6 @@ App Walk-though
  b. User can tap the "EditText" button to update the label with the text from the text field.
 
  c. If the text field is empty, update label with default text string
+
+ App Walk-though
+![Uploading helloworldJerry.gif…]()
