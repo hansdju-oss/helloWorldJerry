@@ -28,7 +28,8 @@ Optional User Stories
 
  c. If the text field is empty, update label with default text string
 
-
+--
 App Walk-though
- ![HansDjuHelloApp](https://github.com/user-attachments/assets/fd5b6af0-ba54-4bb1-911c-5812918b669c)
+![HansDjuHelloApp](https://github.com/user-attachments/assets/3c3f4a18-20b7-4edd-8209-200df07aa852)
+
 
